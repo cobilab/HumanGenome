@@ -14,7 +14,8 @@ GeCo3 compressed the 3,117,292,120 DNA symbols to:
 
 | Rank |Bytes       |Bps    | Time (m) | Memory (GB) | Replicate | Factor |
 |------|------------|-------|----------|-------------|-----------|--------|
-| 1    |578,588,274 | 1.485 | 101      | 3.3         | Run1.sh   |![26%](https://progress-bar.dev/26) |
+| 1    |566,387,531 | 1.454 | 215      | 6.3         | Run2.sh   |![27%](https://progress-bar.dev/27) |
+| 2    |578,588,274 | 1.485 | 101      | 3.3         | Run1.sh   |![26%](https://progress-bar.dev/26) |
 
 <br>
 
