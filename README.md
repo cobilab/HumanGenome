@@ -1,7 +1,7 @@
 
 ## <b>How compressible is a human genome?</b> ##
 
-<p align="justify">This repository provides information-reproducibility on how compressible a human genome is (T2T Chm13 version 2.0) using <b>GeCo3</b> (<a href="https://doi.org/10.1093/gigascience/giaa119">article</a>, <a href="https://github.com/cobilab/geco3">code</a> as a data compressor with specific models in the setup parameters.</p>
+<p align="justify">This repository provides information-reproducibility on how compressible a human genome is (T2T Chm13 version 2.0) using <b>GeCo3</b> (<a href="https://doi.org/10.1093/gigascience/giaa119">article</a>, <a href="https://github.com/cobilab/geco3">code</a>) as a data compressor with specific models in the setup parameters.</p>
 
 ### Results: ###
 
