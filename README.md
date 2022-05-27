@@ -7,9 +7,9 @@ This repository provides information-reproducibility on how compressible a human
 
 GeCo3 compressed the 3,117,292,120 DNA symbols to:
 
-| Ranking  |Bytes       |Bps    | Time (m) | Memory | Script  | Factor |
-|----------|------------|-------|----------|--------|---------|--------|
-| 1        |578,588,274 | 1.485 | 101      | 3.3    | Run1.sh |![26%](https://progress-bar.dev/26) |
+| Rank |Bytes       |Bps    | Time (m) | Memory (GB) | Script  | Factor |
+|------|------------|-------|----------|-------------|---------|--------|
+| 1    |578,588,274 | 1.485 | 101      | 3.3         | Run1.sh |![26%](https://progress-bar.dev/26) |
 
 The base line of 2 bits per symbol is used to calculate the (data compression) Factor.
 The compression was computed in a Laptop computer running Linux with 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8, 8 GB of RAM, and an SSD disk of 512 GB.
