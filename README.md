@@ -1,13 +1,13 @@
 
-## <b>How uncompressible is a human genome?</b> ##
+## <b>How compressible is a human genome?</b> ##
 
-This repository provides information-reproducibility on how uncompressible a human genome is (T2T Chm13 version 2.0) using <b>GeCo3</b> ([Article](https://doi.org/10.1093/gigascience/giaa119), [Code](https://github.com/cobilab/geco3)) as a data compressor with specific models in the setup parameters.
+This repository provides information-reproducibility on how compressible a human genome is (T2T Chm13 version 2.0) using <b>GeCo3</b> ([Article](https://doi.org/10.1093/gigascience/giaa119), [Code](https://github.com/cobilab/geco3)) as a data compressor with specific models in the setup parameters.
 
 ### Results: ###
 
-This is the proportion that GeCo3 is still unable to compress from a human genome:
+This is the proportion that GeCo3 is able to compress from a human genome:
 
-![75%](https://progress-bar.dev/75)
+![25%](https://progress-bar.dev/25)
 
 GeCo3 was able to compress 25% (75% still without compression) of a human genome assuming the base line of 2 bits per symbol and the following compression models:
 <pre>
