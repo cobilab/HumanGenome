@@ -10,7 +10,7 @@ This compression gave an average of <b>1.485 bits</b> per base.
 
 This is the approximate percentage that GeCo3 is able to compress from a human genome:
 
-![25.76%](https://progress-bar.dev/26)
+![26%](https://progress-bar.dev/26)
 
 GeCo3 was able to compress 25.76% (74.24% still without compression) of a human genome assuming the base line of 2 bits per symbol and the following compression models:
 <pre>
