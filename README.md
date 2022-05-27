@@ -6,8 +6,15 @@ This repository provides information-reproducibility on how compressible a human
 ### Results: ###
 
 This is the proportion that GeCo3 was unable to compress:
+
 ![75%](https://progress-bar.dev/75)
-GeCo3 was able to compress 25% of a human genome assuming the base line of 2 bits per symbol.
+
+GeCo3 was able to compress 25% of a human genome assuming the base line of 2 bits per symbol and the following compression models:
+<pre>
+GeCo3 -v -tm 3:1:0:0:0.7/0:0:0 -tm 19:1000:1:20:0.9/3:20:0.9 HS.seq
+<pre>
+
+GeCo3 required <b>3.3 GB of RAM</b> and <b>200 minutes</b> for computing the compression run on a Laptop computer running Linux with 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8, 8 GB of RAM, and an SSD disk of 512 GB.
 
 ### Reproducibility: ###
 
