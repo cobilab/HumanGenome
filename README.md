@@ -35,10 +35,6 @@ wget https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/CHM13/assemblies/a
 gunzip -k chm13v2.0.fa.gz; 
 seqtk seq -U chm13v2.0.fa | tr -d -c "ACGT" > HS.seq;
 </pre>
-or
-<pre>
-zcat chm13v2.0.fa.gz | grep -v ">" | tr -d -c "ACGT" > HS.seq;
-</pre>
 
 #### Data compression:
 
