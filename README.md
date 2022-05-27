@@ -15,8 +15,7 @@ GeCo3 compressed the 3,117,292,120 DNA symbols to:
 
 <br>
 
-The base line of 2 bits per symbol is used to calculate the (data compression) Factor.
-The compression was computed in a Laptop computer running Linux with 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8, 8 GB of RAM, and an SSD disk of 512 GB.
+The base line of 2 bits per symbol is used to calculate the (data compression) Factor. The computations ran in a Laptop computer running Linux with 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8, 8 GB of RAM, and an SSD disk of 512 GB. The ranking is given by the lowest number of bytes (Kolmogorov approximation).
 
 ### Parameters
 
