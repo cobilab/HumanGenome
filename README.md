@@ -1,2 +1,4 @@
 # HumanGenome
-How compressible is a human genome?
+
+<b>How compressible is a human genome?</b>
+
