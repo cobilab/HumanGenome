@@ -5,6 +5,11 @@ This repository provides information-reproducibility on how compressible a human
 
 ### Results:
 
+GeCo was able to compress 25% of a human genome assuming the base line 2bits.
+
+This is the proportion that GeCo3 was unable to compress:
+<progress value="75" max="100">75 %</progress>
+
 
 
 
