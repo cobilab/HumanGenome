@@ -5,11 +5,11 @@ This repository provides information-reproducibility on how compressible a human
 
 ### Results: ###
 
-This is the proportion that GeCo3 was unable to compress:
+This is the proportion that GeCo3 is still unable to compress from a human genome:
 
 ![75%](https://progress-bar.dev/75)
 
-GeCo3 was able to compress 25% of a human genome assuming the base line of 2 bits per symbol and the following compression models:
+GeCo3 was able to compress 25% (75% still without compression) of a human genome assuming the base line of 2 bits per symbol and the following compression models:
 <pre>
 GeCo3 -v -tm 3:1:0:0:0.7/0:0:0 -tm 19:1000:1:20:0.9/3:20:0.9 HS.seq
 <pre>
