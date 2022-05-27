@@ -29,16 +29,31 @@ Run1.sh:
 GeCo3 -v -tm 3:1:0:0:0.7/0:0:0 -tm 19:1000:1:20:0.9/3:20:0.9 HS.seq
 </pre>
 
+Run2.sh:
+<pre>
+GeCo3 -v -lr 0.03 -hs 64 -tm 3:1:0:1:0.70/0:0:0 -tm 13:50:0:1:0.9/0:1:0.9 -tm 19:1500:1:40:0.88/3:20:0.88 HS.seq
+</pre>
+
+Run3.sh:
+<pre>
+GeCo3 -v -lr 0.03 -hs 72 -tm 1:1:0:0:0.6/0:0:0 -tm 3:1:0:1:0.70/0:0:0 -tm 8:1:0:1:0.85/0:0:0 -tm 13:20:0:1:0.9/0:1:0.9 -tm 20:1500:1:50:0.9/4:10:0.9 HS.seq
+</pre>
+
+
 ### Reproducibility: ###
 
 Change directory and give permitions:
 <pre>
 cd scripts/
 chmod +x Run1.sh
+chmod +x Run2.sh
+chmod +x Run3.sh
 </pre>
 
 To replicate each run:
 <pre>
 ./Run1.sh
+./Run2.sh
+./Run3.sh
 </pre>
 
