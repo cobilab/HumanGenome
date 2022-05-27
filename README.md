@@ -8,11 +8,11 @@ This repository provides information-reproducibility on how compressible a human
 GeCo3 compressed the 3,117,292,120 DNA symbols to 578,588,274 bytes (<b>551.8 MB</b>).
 This compression gave an average of <b>1.485 bits</b> per base.
 
-This is the proportion that GeCo3 is able to compress from a human genome:
+This is the approximate percentage that GeCo3 is able to compress from a human genome:
 
-![25.7%](https://progress-bar.dev/25.7)
+![26%](https://progress-bar.dev/26)
 
-GeCo3 was able to compress 25.7% (74.3% still without compression) of a human genome assuming the base line of 2 bits per symbol and the following compression models:
+GeCo3 was able to compress 25.76% (74.24% still without compression) of a human genome assuming the base line of 2 bits per symbol and the following compression models:
 <pre>
 GeCo3 -v -tm 3:1:0:0:0.7/0:0:0 -tm 19:1000:1:20:0.9/3:20:0.9 HS.seq
 </pre>
