@@ -1,6 +1,6 @@
 <br>
 
-## <b>How compressible is a human genome?</b> ##
+## <b>How compressible is a human genome sequence?</b> ##
 
 <br>
 
