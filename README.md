@@ -16,11 +16,15 @@ GeCo3 compressed the 3,117,292,070 human DNA symbols to:
 
 | Rank     |Bytes       |Bps    | Time (m) | RAM (GB) | Program | Replicate | Factor |
 |----------|------------|-------|----------|----------|---------|-----------|--------|
-| 1        |564,282,192 | 1.448 | 222      | 6.3      | GeCo3   | Run4.sh   |![28%](https://progress-bar.dev/28) |
-| 2        |564,913,725 | 1.450 | 262      | 7.3      | GeCo3   | Run3.sh   |![28%](https://progress-bar.dev/28) |
-| 3        |566,387,531 | 1.454 | 215      | 6.3      | GeCo3   | Run2.sh   |![27%](https://progress-bar.dev/27) |
-| 4        |578,588,274 | 1.485 | 101      | 3.3      | GeCo3   |Run1.sh    |![26%](https://progress-bar.dev/26) |
-| Baseline |779,323,017 | 2.000 | -        | -        | -       |-          |![0%](https://progress-bar.dev/0) |
+| 1        | ?          | ?     | ?        | ?        | ?       | Run5.sh   |![28%](https://progress-bar.dev/?) |
+| 2        |564,282,192 | 1.448 | 222      | 6.3      | GeCo3   | Run4.sh   |![28%](https://progress-bar.dev/28) |
+| 3        |564,913,725 | 1.450 | 262      | 7.3      | GeCo3   | Run3.sh   |![28%](https://progress-bar.dev/28) |
+| 4        |566,387,531 | 1.454 | 215      | 6.3      | GeCo3   | Run2.sh   |![27%](https://progress-bar.dev/27) |
+| 5        |578,588,274 | 1.485 | 101      | 3.3      | GeCo3   | Run1.sh   |![26%](https://progress-bar.dev/26) |
+| 6        |607,835,665 | 1.560 | 48       | 1.8      | GeCo2   | Run8.sh   |![22%](https://progress-bar.dev/22) |
+| 7        |619,369,574 | 1.590 | 20       | 2.0      | GeCo2   | Run7.sh   |![21%](https://progress-bar.dev/21) |
+| 8        |628,342,060 | 1.613 | 18       | 0.5      | GeCo2   | Run6.sh   |![19%](https://progress-bar.dev/19) |
+| Baseline |779,323,017 | 2.000 | -        | -        | 2 BPS   |-          |![0%](https://progress-bar.dev/0) |
 
 </div>
 <br>
