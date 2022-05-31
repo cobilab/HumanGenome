@@ -8,7 +8,7 @@
 
 ### Results: ###
 
-GeCo3 compressed the 3,117,292,070 human DNA symbols to:
+GeCo3 compressed the 3,117,292,070 human DNA symbols (using one core) to:
 
 <br>
 <div align="center">
