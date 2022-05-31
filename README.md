@@ -51,5 +51,7 @@ To replicate each run:
 ./Run6.sh
 ./Run7.sh
 ./Run8.sh
+./Run9.sh
+./Run10.sh
 </pre>
 
