@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="justify">This repository provides information-reproducibility on how compressible a human genome is (T2T Chm13 version 2.0) using different data compressors.</p>
+<p align="justify">This repository provides information-reproducibility on how compressible a human genome is (T2T Chm13 version 2.0 [<a href="https://doi.org/10.1126/science.abj6987">article</a>]) using different data compressors.</p>
 
 ### Results: ###
 
