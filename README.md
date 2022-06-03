@@ -47,8 +47,8 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | GeCo3           |<a href="https://github.com/cobilab/geco3">code</a>  | <a href="https://doi.org/10.1093/gigascience/giaa119">article</a>|
 | GeCo2           |<a href="https://github.com/cobilab/geco2">code</a>  | <a href="https://link.springer.com/chapter/10.1007/978-3-030-23873-5_17">article</a>|
 | paq8l           |<a href="https://">code</a>  | <a href="https://">article</a>|
-| nncp            |<a href="https://">code</a>  | <a href="https://">article</a>|
-| lzma            |<a href="https://tukaani.org/xz/">code</a>  | <a href="https://tukaani.org/xz/">article</a>|
+| nncp v19        |<a href="https://">code</a>  | <a href="https://">article</a>|
+| lzma 5.2.5      |<a href="https://tukaani.org/xz/">code</a>  | <a href="https://tukaani.org/xz/">article</a>|
 
 </div>
 <br>
