@@ -13,10 +13,10 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 <div align="center">
 
 
-| Rank     |Bytes       |Bps    | Time (m) | RAM (GB) | Program | Replicate | Factor |
+| Rank     |Bytes       |Bps    | Time (m) | RAM (GB) | Program | Replication | Factor |
 |----------|------------|-------|----------|----------|---------|-----------|--------|
-| 1        |(running)   | ?     | ?        | ?        | nncp    | ![Run13](https://github.com/pratas/HumanGenome/blob/main/scripts/Run13.sh) |![50%](https://progress-bar.dev/50) |
-| 2        |(running)   | ?     | ?        | 1.8      | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![50%](https://progress-bar.dev/50) |
+| 1        |(running)   | ?     | ?        | ?        | nncp    | ![Run14](https://github.com/pratas/HumanGenome/blob/main/scripts/Run14.sh) |![50%](https://progress-bar.dev/50) |
+| 2        |(running)   | ?     | ?        | 1.8      | paq8l   | ![Run13](https://github.com/pratas/HumanGenome/blob/main/scripts/Run13.sh) |![50%](https://progress-bar.dev/50) |
 | 3        |(running)   | ?     | ?        | 1.6      | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![50%](https://progress-bar.dev/50) |
 | 4        |559,124,034 | 1.435 | 425      | 13.3     | GeCo3   | ![Run11](https://github.com/pratas/HumanGenome/blob/main/scripts/Run11.sh) |![28%](https://progress-bar.dev/28) |
 | 5        |560,694,405 | 1.439 | 354      | 12.8     | GeCo3   | ![Run10](https://github.com/pratas/HumanGenome/blob/main/scripts/Run10.sh) |![28%](https://progress-bar.dev/28) |
@@ -29,6 +29,7 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | 12       |607,835,665 | 1.560 | 48       | 1.8      | GeCo2   | ![Run8](https://github.com/pratas/HumanGenome/blob/main/scripts/Run8.sh) |![22%](https://progress-bar.dev/22) |
 | 13       |619,369,574 | 1.590 | 20       | 2.0      | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
 | 14       |628,342,060 | 1.613 | 18       | 0.5      | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
+| 15       |646,062,792 | 1.658 | 84       | 0.6      | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
 | Baseline |779,323,017 | 2.000 | -        | -        | 2 BPS   |-          |![0%](https://progress-bar.dev/0) |
 
 </div>
