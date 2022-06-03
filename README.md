@@ -29,7 +29,8 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | 12       |607,835,665 | 1.560 | 48       | 1.8      | GeCo2   | ![Run8](https://github.com/pratas/HumanGenome/blob/main/scripts/Run8.sh) |![22%](https://progress-bar.dev/22) |
 | 13       |619,369,574 | 1.590 | 20       | 2.0      | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
 | 14       |628,342,060 | 1.613 | 18       | 0.5      | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
-| 15       |646,062,792 | 1.658 | 84       | 0.6      | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
+| 15       |639,222,915 | 1.640 | 43       | 0.8      | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
+| 16       |646,062,792 | 1.658 | 84       | 0.6      | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
 | Baseline |779,323,017 | 2.000 | -        | -        | 2 BPS   |-          |![0%](https://progress-bar.dev/0) |
 
 </div>
@@ -46,8 +47,9 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 |-----------------|------------|--------------|
 | GeCo3           |<a href="https://github.com/cobilab/geco3">code</a>  | <a href="https://doi.org/10.1093/gigascience/giaa119">article</a>|
 | GeCo2           |<a href="https://github.com/cobilab/geco2">code</a>  | <a href="https://link.springer.com/chapter/10.1007/978-3-030-23873-5_17">article</a>|
-| paq8l           |<a href="https://">code</a>  | <a href="https://">article</a>|
+| paq8l           |<a href="http://mattmahoney.net/dc/paq8l.zip">code</a>  | <a href="http://mattmahoney.net/dc/#paq">article</a>|
 | nncp v19        |<a href="https://">code</a>  | <a href="https://">article</a>|
+| NAF             |<a href="https://github.com/KirillKryukov/naf">code</a>  | <a href="https://doi.org/10.1093/bioinformatics/btz144">article</a>|
 | lzma 5.2.5      |<a href="https://tukaani.org/xz/">code</a>  | <a href="https://tukaani.org/xz/">article</a>|
 
 </div>
