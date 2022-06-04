@@ -15,7 +15,7 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 
 | Rank     |Bytes       |Bps    | Time (m) | RAM (GB) | Program | Replication | Factor |
 |----------|------------|-------|----------|----------|---------|-----------|--------|
-| 1        |(running)   | ?     | ?        | ?        | nncp    | ![Run14](https://github.com/pratas/HumanGenome/blob/main/scripts/Run14.sh) |![50%](https://progress-bar.dev/50) |
+| 1        |(running)   | ?     | ?        | 0.6      | nncp    | ![Run14](https://github.com/pratas/HumanGenome/blob/main/scripts/Run14.sh) |![50%](https://progress-bar.dev/50) |
 | 2        |(running)   | ?     | ?        | 1.8      | paq8l   | ![Run13](https://github.com/pratas/HumanGenome/blob/main/scripts/Run13.sh) |![50%](https://progress-bar.dev/50) |
 | 3        |(running)   | ?     | ?        | 1.6      | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![50%](https://progress-bar.dev/50) |
 | 4        |559,124,034 | 1.435 | 425      | 13.3     | GeCo3   | ![Run11](https://github.com/pratas/HumanGenome/blob/main/scripts/Run11.sh) |![28%](https://progress-bar.dev/28) |
@@ -49,7 +49,7 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | GeCo3           |<a href="https://github.com/cobilab/geco3">code</a>  | <a href="https://doi.org/10.1093/gigascience/giaa119">article</a>|
 | GeCo2           |<a href="https://github.com/cobilab/geco2">code</a>  | <a href="https://link.springer.com/chapter/10.1007/978-3-030-23873-5_17">article</a>|
 | paq8l           |<a href="http://mattmahoney.net/dc/paq8l.zip">code</a>  | <a href="http://mattmahoney.net/dc/#paq">article</a>|
-| nncp v19        |<a href="https://">code</a>  | <a href="https://">article</a>|
+| nncp v3.1       |<a href="https://bellard.org/nncp/">code</a>  | <a href="https://bellard.org/nncp/nncp_v2.pdf">article</a>|
 | NAF             |<a href="https://github.com/KirillKryukov/naf">code</a>  | <a href="https://doi.org/10.1093/bioinformatics/btz144">article</a>|
 | lzma 5.2.5      |<a href="https://tukaani.org/xz/">code</a>  | <a href="https://tukaani.org/xz/">article</a>|
 
