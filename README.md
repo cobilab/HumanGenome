@@ -26,11 +26,12 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | 9       |578,588,274 | 1.485 | 101      | 3.3      | GeCo3   | ![Run1](https://github.com/pratas/HumanGenome/blob/main/scripts/Run1.sh) |![26%](https://progress-bar.dev/26) |
 | 10       |581,917,199 | 1.493 | 97      | 1.8      | GeCo3   | ![Run17](https://github.com/pratas/HumanGenome/blob/main/scripts/Run17.sh) |![25%](https://progress-bar.dev/25) |
 | 11       |607,835,665 | 1.560 | 48       | 1.8      | GeCo2   | ![Run8](https://github.com/pratas/HumanGenome/blob/main/scripts/Run8.sh) |![22%](https://progress-bar.dev/22) |
-| 12       |612,331,601  | 1.571   | 4,588   | 1.6      | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![21%](https://progress-bar.dev/21) |
-| 13       |619,369,574 | 1.590 | 20       | 2.0      | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
-| 14       |628,342,060 | 1.613 | 18       | 0.5      | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
-| 15       |639,222,915 | 1.640 | 43       | 0.8      | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
-| 16       |646,062,792 | 1.658 | 84       | 0.6      | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
+| 12       |609,579,746 | 1.564 | 171      | 13.8     | JARVIS  | ![Run18](https://github.com/pratas/HumanGenome/blob/main/scripts/Run18.sh) |![22%](https://progress-bar.dev/22) |
+| 13       |612,331,601  | 1.571   | 4,588   | 1.6      | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![21%](https://progress-bar.dev/21) |
+| 14       |619,369,574 | 1.590 | 20       | 2.0      | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
+| 15       |628,342,060 | 1.613 | 18       | 0.5      | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
+| 16       |639,222,915 | 1.640 | 43       | 0.8      | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
+| 17       |646,062,792 | 1.658 | 84       | 0.6      | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
 | Baseline |779,323,017 | 2.000 | -        | -        | 2 BPS   |-          |![0%](https://progress-bar.dev/0) |
 
 </div>
@@ -51,6 +52,7 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | nncp v3.1       |<a href="https://bellard.org/nncp/">code</a>  | <a href="https://bellard.org/nncp/nncp_v2.pdf">article</a>|
 | NAF             |<a href="https://github.com/KirillKryukov/naf">code</a>  | <a href="https://doi.org/10.1093/bioinformatics/btz144">article</a>|
 | lzma 5.2.5      |<a href="https://tukaani.org/xz/">code</a>  | <a href="https://tukaani.org/xz/">article</a>|
+| JARVIS          |<a href="https://github.com/cobilab/jarvis">code</a>  | <a href="https://doi.org/10.3390/e21111074">article</a>|
 
 </div>
 <br>
