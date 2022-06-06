@@ -16,7 +16,7 @@ The 3,117,292,120 human DNA symbols have been compressed to:
 | Rank     |Bytes       |Bps    | Time (m) | RAM (GB) | Program | Replication | Factor |
 |----------|------------|-------|----------|----------|---------|-----------|--------|
 | 1        |(running)   | ?     | ?        | 0.6      | nncp    | ![Run14](https://github.com/pratas/HumanGenome/blob/main/scripts/Run14.sh) |![50%](https://progress-bar.dev/50) |
-| 2        |559,124,034 | 1.435 | 425      | 13.3     | GeCo3   | ![Run11](https://github.com/pratas/HumanGenome/blob/main/scripts/Run11.sh) |![28%](https://progress-bar.dev/28) |
+| 2        |559,124,034 | 1.435 | 425      | 11.6     | GeCo3   | ![Run11](https://github.com/pratas/HumanGenome/blob/main/scripts/Run11.sh) |![28%](https://progress-bar.dev/28) |
 | 3        |560,694,405 | 1.439 | 354      | 12.8     | GeCo3   | ![Run10](https://github.com/pratas/HumanGenome/blob/main/scripts/Run10.sh) |![28%](https://progress-bar.dev/28) |
 | 4        |561,644,781 | 1.441 | 280      | 11.3     | GeCo3   | ![Run9](https://github.com/pratas/HumanGenome/blob/main/scripts/Run9.sh) |![28%](https://progress-bar.dev/28) |
 | 5        |562,253,393 | 1.443 | 281      | 11.3     | GeCo3   | ![Run5](https://github.com/pratas/HumanGenome/blob/main/scripts/Run5.sh) |![28%](https://progress-bar.dev/28) |
