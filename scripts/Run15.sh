@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # Install tools:
+sudo apt-get install -y lzma
 conda install -c bioconda seqtk -y
 #
 # Download T2T chm13 v2.0 genome:
