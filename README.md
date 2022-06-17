@@ -39,13 +39,19 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 | 22       |607,835,665 | 1.560 | 48     | 1.8    | GeCo2   | ![Run8](https://github.com/pratas/HumanGenome/blob/main/scripts/Run8.sh) |![22%](https://progress-bar.dev/22) |
 | 23       |609,579,746 | 1.564 | 171    | 13.8   | JARVIS  | ![Run18](https://github.com/pratas/HumanGenome/blob/main/scripts/Run18.sh) |![22%](https://progress-bar.dev/22) |
 | 24       |612,331,601 | 1.571 | 4,588  | 1.6    | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![21%](https://progress-bar.dev/21) |
-| 25       |619,369,574 | 1.590 | 20     | 2.0    | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
-| 26       |619,837,647 | 1.591 | 12     | 0.6    | MFCompress | ![Run29](https://github.com/pratas/HumanGenome/blob/main/scripts/Run29.sh) |![21%](https://progress-bar.dev/21) |
-| 27       |625,753,521 | 1.606 | 11     | 0.6    | MFCompress | ![Run28](https://github.com/pratas/HumanGenome/blob/main/scripts/Run28.sh) |![20%](https://progress-bar.dev/20) |
-| 28       |628,342,060 | 1.613 | 18     | 0.5    | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
-| 29       |639,222,915 | 1.640 | 43     | 0.8    | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
-| 20       |646,062,792 | 1.658 | 84     | 0.6    | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
-| 31       |752,793,986 | 1.932 | 5      | 0.001  | bzip2 -9| ![Run19](https://github.com/pratas/HumanGenome/blob/main/scripts/Run19.sh) |![3%](https://progress-bar.dev/3) |
+| 25       |614,339,951 | 1.577 | 39     | 28.5   | bsc-m03 | ![Run38](https://github.com/pratas/HumanGenome/blob/main/scripts/Run38.sh) |![21%](https://progress-bar.dev/21) |
+| 26       |614,919,247 | 1.578 | 39     | 20.4   | bsc-m03 | ![Run37](https://github.com/pratas/HumanGenome/blob/main/scripts/Run37.sh) |![21%](https://progress-bar.dev/21) |
+| 27       |618,241,906 | 1.587 | 39     | 16.3   | bsc-m03 | ![Run36](https://github.com/pratas/HumanGenome/blob/main/scripts/Run36.sh) |![21%](https://progress-bar.dev/21) |
+| 28       |619,369,574 | 1.590 | 20     | 2.0    | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
+| 29       |619,837,647 | 1.591 | 12     | 0.6    | MFCompress | ![Run29](https://github.com/pratas/HumanGenome/blob/main/scripts/Run29.sh) |![21%](https://progress-bar.dev/21) |
+| 30       |620,837,061 | 1.593 | 39     | 11.2   | bsc-m03 | ![Run35](https://github.com/pratas/HumanGenome/blob/main/scripts/Run35.sh) |![20%](https://progress-bar.dev/20) |
+| 31       |625,647,034 | 1.606 | 38     | 5.6    | bsc-m03 | ![Run34](https://github.com/pratas/HumanGenome/blob/main/scripts/Run34.sh) |![20%](https://progress-bar.dev/20) |
+| 32       |625,753,521 | 1.606 | 11     | 0.6    | MFCompress | ![Run28](https://github.com/pratas/HumanGenome/blob/main/scripts/Run28.sh) |![20%](https://progress-bar.dev/20) |
+| 33       |628,342,060 | 1.613 | 18     | 0.5    | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
+| 34       |639,222,915 | 1.640 | 43     | 0.8    | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
+| 35       |646,062,792 | 1.658 | 84     | 0.6    | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
+| 36       |661,591,088 | 1.698 | 36     | 0.05   | bsc-m03 | ![Run33](https://github.com/pratas/HumanGenome/blob/main/scripts/Run33.sh) |![15%](https://progress-bar.dev/15) |
+| 37       |752,793,986 | 1.932 | 5      | 0.001  | bzip2 -9| ![Run19](https://github.com/pratas/HumanGenome/blob/main/scripts/Run19.sh) |![3%](https://progress-bar.dev/3) |
 | Baseline |779,323,017 | 2.000 | -      | -      | 2 BPS   |-          |![0%](https://progress-bar.dev/0) |
 
 </div>
@@ -68,7 +74,8 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 | lzma 5.2.5      |<a href="https://tukaani.org/xz/">code</a>  | <a href="https://tukaani.org/xz/">article</a>|
 | JARVIS          |<a href="https://github.com/cobilab/jarvis">code</a>  | <a href="https://doi.org/10.3390/e21111074">article</a>|
 | bzip2 1.0.8     |<a href="https://sourceware.org/bzip2/">code</a>  | <a href="https://sourceware.org/bzip2/">article</a>|
-| MFCompress     |<a href="http://sweet.ua.pt/ap/software/mfcompress/MFCompress-linux64-1.01.tgz">code</a>  | <a href="https://doi.org/10.1093/bioinformatics/btt594">article</a>|
+| MFCompress      |<a href="http://sweet.ua.pt/ap/software/mfcompress/MFCompress-linux64-1.01.tgz">code</a>  | <a href="https://doi.org/10.1093/bioinformatics/btt594">article</a>|
+| bsc-m03 v0.2.1  |<a href="https://github.com/IlyaGrebnov/bsc-m03">code</a>  | <a href="https://github.com/IlyaGrebnov/bsc-m03">article</a>|
 
 </div>
 <br>
