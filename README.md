@@ -31,29 +31,30 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 | 14       |564,282,192 | 1.448 | 222    | 6.3    | GeCo3   | ![Run4](https://github.com/pratas/HumanGenome/blob/main/scripts/Run4.sh) |![28%](https://progress-bar.dev/28) |
 | 15       |564,913,725 | 1.450 | 262    | 7.3    | GeCo3   | ![Run3](https://github.com/pratas/HumanGenome/blob/main/scripts/Run3.sh) |![28%](https://progress-bar.dev/28) |
 | 16       |566,387,531 | 1.454 | 215    | 6.3    | GeCo3   | ![Run2](https://github.com/pratas/HumanGenome/blob/main/scripts/Run2.sh) |![27%](https://progress-bar.dev/27) |
-| 17       |577,672,973 | 1.482 | 88     | 1.9    | GeCo3   | ![Run40](https://github.com/pratas/HumanGenome/blob/main/scripts/Run40.sh) |![26%](https://progress-bar.dev/26) |
-| 18       |578,588,274 | 1.485 | 101    | 3.3    | GeCo3   | ![Run1](https://github.com/pratas/HumanGenome/blob/main/scripts/Run1.sh) |![26%](https://progress-bar.dev/26) |
-| 19       |581,917,199 | 1.493 | 97     | 1.8    | GeCo3   | ![Run17](https://github.com/pratas/HumanGenome/blob/main/scripts/Run17.sh) |![25%](https://progress-bar.dev/25) |
-| 20       |583,746,074 | 1.498 | 86     | 3.3    | GeCo3   | ![Run21](https://github.com/pratas/HumanGenome/blob/main/scripts/Run21.sh) |![25%](https://progress-bar.dev/25) |
-| 21       |589,813,339 | 1.514 | 17,465 | 0.6    | nncp    | ![Run14](https://github.com/pratas/HumanGenome/blob/main/scripts/Run14.sh) |![24%](https://progress-bar.dev/24) |
-| 22       |603,726,643 | 1.549 | 71     | 3.3    | GeCo3   | ![Run22](https://github.com/pratas/HumanGenome/blob/main/scripts/Run22.sh) |![23%](https://progress-bar.dev/23) |
-| 23       |607,749,667 | 1.560 | 22     | 2.5    | MFCompress | ![Run30](https://github.com/pratas/HumanGenome/blob/main/scripts/Run30.sh) |![22%](https://progress-bar.dev/22) |
-| 24       |607,835,665 | 1.560 | 48     | 1.8    | GeCo2   | ![Run8](https://github.com/pratas/HumanGenome/blob/main/scripts/Run8.sh) |![22%](https://progress-bar.dev/22) |
-| 25       |609,579,746 | 1.564 | 171    | 13.8   | JARVIS  | ![Run18](https://github.com/pratas/HumanGenome/blob/main/scripts/Run18.sh) |![22%](https://progress-bar.dev/22) |
-| 26       |612,331,601 | 1.571 | 4,588  | 1.6    | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![21%](https://progress-bar.dev/21) |
-| 27       |614,339,951 | 1.577 | 39     | 28.5   | bsc-m03 | ![Run38](https://github.com/pratas/HumanGenome/blob/main/scripts/Run38.sh) |![21%](https://progress-bar.dev/21) |
-| 28       |614,919,247 | 1.578 | 39     | 20.4   | bsc-m03 | ![Run37](https://github.com/pratas/HumanGenome/blob/main/scripts/Run37.sh) |![21%](https://progress-bar.dev/21) |
-| 29       |618,241,906 | 1.587 | 39     | 16.3   | bsc-m03 | ![Run36](https://github.com/pratas/HumanGenome/blob/main/scripts/Run36.sh) |![21%](https://progress-bar.dev/21) |
-| 30       |619,369,574 | 1.590 | 20     | 2.0    | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
-| 31       |619,837,647 | 1.591 | 12     | 0.6    | MFCompress | ![Run29](https://github.com/pratas/HumanGenome/blob/main/scripts/Run29.sh) |![21%](https://progress-bar.dev/21) |
-| 32       |620,837,061 | 1.593 | 39     | 11.2   | bsc-m03 | ![Run35](https://github.com/pratas/HumanGenome/blob/main/scripts/Run35.sh) |![20%](https://progress-bar.dev/20) |
-| 33       |625,647,034 | 1.606 | 38     | 5.6    | bsc-m03 | ![Run34](https://github.com/pratas/HumanGenome/blob/main/scripts/Run34.sh) |![20%](https://progress-bar.dev/20) |
-| 34       |625,753,521 | 1.606 | 11     | 0.6    | MFCompress | ![Run28](https://github.com/pratas/HumanGenome/blob/main/scripts/Run28.sh) |![20%](https://progress-bar.dev/20) |
-| 35       |628,342,060 | 1.613 | 18     | 0.5    | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
-| 36       |639,222,915 | 1.640 | 43     | 0.8    | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
-| 37       |646,062,792 | 1.658 | 84     | 0.6    | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
-| 38       |661,591,088 | 1.698 | 36     | 0.05   | bsc-m03 | ![Run33](https://github.com/pratas/HumanGenome/blob/main/scripts/Run33.sh) |![15%](https://progress-bar.dev/15) |
-| 39       |752,793,986 | 1.932 | 5      | 0.001  | bzip2 -9| ![Run19](https://github.com/pratas/HumanGenome/blob/main/scripts/Run19.sh) |![3%](https://progress-bar.dev/3) |
+| 17       |575,830,095 | 1.478 | 94     | 2.9    | GeCo3   | ![Run41](https://github.com/pratas/HumanGenome/blob/main/scripts/Run41.sh) |![26%](https://progress-bar.dev/26) |
+| 18       |577,672,973 | 1.482 | 88     | 1.9    | GeCo3   | ![Run40](https://github.com/pratas/HumanGenome/blob/main/scripts/Run40.sh) |![26%](https://progress-bar.dev/26) |
+| 19       |578,588,274 | 1.485 | 101    | 3.3    | GeCo3   | ![Run1](https://github.com/pratas/HumanGenome/blob/main/scripts/Run1.sh) |![26%](https://progress-bar.dev/26) |
+| 20       |581,917,199 | 1.493 | 97     | 1.8    | GeCo3   | ![Run17](https://github.com/pratas/HumanGenome/blob/main/scripts/Run17.sh) |![25%](https://progress-bar.dev/25) |
+| 21       |583,746,074 | 1.498 | 86     | 3.3    | GeCo3   | ![Run21](https://github.com/pratas/HumanGenome/blob/main/scripts/Run21.sh) |![25%](https://progress-bar.dev/25) |
+| 22       |589,813,339 | 1.514 | 17,465 | 0.6    | nncp    | ![Run14](https://github.com/pratas/HumanGenome/blob/main/scripts/Run14.sh) |![24%](https://progress-bar.dev/24) |
+| 23       |603,726,643 | 1.549 | 71     | 3.3    | GeCo3   | ![Run22](https://github.com/pratas/HumanGenome/blob/main/scripts/Run22.sh) |![23%](https://progress-bar.dev/23) |
+| 24       |607,749,667 | 1.560 | 22     | 2.5    | MFCompress | ![Run30](https://github.com/pratas/HumanGenome/blob/main/scripts/Run30.sh) |![22%](https://progress-bar.dev/22) |
+| 25       |607,835,665 | 1.560 | 48     | 1.8    | GeCo2   | ![Run8](https://github.com/pratas/HumanGenome/blob/main/scripts/Run8.sh) |![22%](https://progress-bar.dev/22) |
+| 26       |609,579,746 | 1.564 | 171    | 13.8   | JARVIS  | ![Run18](https://github.com/pratas/HumanGenome/blob/main/scripts/Run18.sh) |![22%](https://progress-bar.dev/22) |
+| 27       |612,331,601 | 1.571 | 4,588  | 1.6    | paq8l   | ![Run12](https://github.com/pratas/HumanGenome/blob/main/scripts/Run12.sh) |![21%](https://progress-bar.dev/21) |
+| 28       |614,339,951 | 1.577 | 39     | 28.5   | bsc-m03 | ![Run38](https://github.com/pratas/HumanGenome/blob/main/scripts/Run38.sh) |![21%](https://progress-bar.dev/21) |
+| 29       |614,919,247 | 1.578 | 39     | 20.4   | bsc-m03 | ![Run37](https://github.com/pratas/HumanGenome/blob/main/scripts/Run37.sh) |![21%](https://progress-bar.dev/21) |
+| 30       |618,241,906 | 1.587 | 39     | 16.3   | bsc-m03 | ![Run36](https://github.com/pratas/HumanGenome/blob/main/scripts/Run36.sh) |![21%](https://progress-bar.dev/21) |
+| 31       |619,369,574 | 1.590 | 20     | 2.0    | GeCo2   | ![Run7](https://github.com/pratas/HumanGenome/blob/main/scripts/Run7.sh) |![21%](https://progress-bar.dev/21) |
+| 32       |619,837,647 | 1.591 | 12     | 0.6    | MFCompress | ![Run29](https://github.com/pratas/HumanGenome/blob/main/scripts/Run29.sh) |![21%](https://progress-bar.dev/21) |
+| 33       |620,837,061 | 1.593 | 39     | 11.2   | bsc-m03 | ![Run35](https://github.com/pratas/HumanGenome/blob/main/scripts/Run35.sh) |![20%](https://progress-bar.dev/20) |
+| 34       |625,647,034 | 1.606 | 38     | 5.6    | bsc-m03 | ![Run34](https://github.com/pratas/HumanGenome/blob/main/scripts/Run34.sh) |![20%](https://progress-bar.dev/20) |
+| 35       |625,753,521 | 1.606 | 11     | 0.6    | MFCompress | ![Run28](https://github.com/pratas/HumanGenome/blob/main/scripts/Run28.sh) |![20%](https://progress-bar.dev/20) |
+| 36       |628,342,060 | 1.613 | 18     | 0.5    | GeCo2   | ![Run6](https://github.com/pratas/HumanGenome/blob/main/scripts/Run6.sh) |![19%](https://progress-bar.dev/19) |
+| 37       |639,222,915 | 1.640 | 43     | 0.8    | NAF-22  | ![Run16](https://github.com/pratas/HumanGenome/blob/main/scripts/Run16.sh) |![18%](https://progress-bar.dev/18) |
+| 38       |646,062,792 | 1.658 | 84     | 0.6    | lzma -9 | ![Run15](https://github.com/pratas/HumanGenome/blob/main/scripts/Run15.sh) |![17%](https://progress-bar.dev/17) |
+| 39       |661,591,088 | 1.698 | 36     | 0.05   | bsc-m03 | ![Run33](https://github.com/pratas/HumanGenome/blob/main/scripts/Run33.sh) |![15%](https://progress-bar.dev/15) |
+| 40       |752,793,986 | 1.932 | 5      | 0.001  | bzip2 -9| ![Run19](https://github.com/pratas/HumanGenome/blob/main/scripts/Run19.sh) |![3%](https://progress-bar.dev/3) |
 | Baseline |779,323,017 | 2.000 | -      | -      | 2 BPS   |-          |![0%](https://progress-bar.dev/0) |
 
 </div>
