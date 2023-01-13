@@ -13,7 +13,7 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 <div align="center">
 
 
-| Rank     |Bytes       |Bps    |Time (m)|RAM (GB)| Program | Replication | Factor |
+| Rank     |Bytes       |Bps    |Time (m)|RAM (GB)| Program | Replication | Factor (*) |
 |----------|------------|-------|--------|--------|---------|-----------|--------|
 | 1        |543,855,534 | 1.395 | 381    | 28.8   | JARVIS2 | ![Run52](https://github.com/pratas/HumanGenome/blob/main/scripts/Run52.sh) |![30%](https://progress-bar.dev/30) |
 | 2        |544,059,173 | 1.396 | 389    | 28.8   | JARVIS2 | ![Run51](https://github.com/pratas/HumanGenome/blob/main/scripts/Run51.sh) |![30%](https://progress-bar.dev/30) |
@@ -74,7 +74,7 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 </div>
 <br>
 
-<p align="justify">The base line of 2 bits per symbol is used to calculate the (data compression) Factor, which represents the proportion of the sequence that has been fully compressed and is given by 100-((CompressedBytes*8)/(3117292120*2)*100). The Run1.sh and Run4.sh ran in a Laptop computer running Linux with 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8, 8 GB of RAM, and an SSD disk of 512 GB. The remaining computations ran in a Desktop computer running Linux with Intel® Core™ i7-6700 CPU @ 3.40GHz × 8, 31,2 GiB RAM, and disk of 3 TB. The ranking is given by the lowest number of bytes (Kolmogorov complexity approximation).</p>
+<p align="justify">(*) The base line of 2 bits per symbol is used to calculate the (data compression) Factor, which represents the proportion of the sequence that has been fully compressed and is given by 100-((CompressedBytes*8)/(3117292120*2)*100). The Run1.sh and Run4.sh ran in a Laptop computer running Linux with 11th Gen Intel® Core™ i5-1135G7 @ 2.40GHz × 8, 8 GB of RAM, and an SSD disk of 512 GB. The remaining computations ran in a Desktop computer running Linux with Intel® Core™ i7-6700 CPU @ 3.40GHz × 8, 31,2 GiB RAM, and disk of 3 TB. The ranking is given by the lowest number of bytes (Kolmogorov complexity approximation).</p>
 
 ### Data compression tools ###
 
