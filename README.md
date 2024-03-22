@@ -94,7 +94,7 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 | MFCompress      |<a href="http://sweet.ua.pt/ap/software/mfcompress/MFCompress-linux64-1.01.tgz">code</a>  | <a href="https://doi.org/10.1093/bioinformatics/btt594">article</a>|
 | bsc-m03 v0.2.1  |<a href="https://github.com/IlyaGrebnov/bsc-m03">code</a>  | <a href="https://github.com/IlyaGrebnov/bsc-m03">article</a>|
 | JARVIS2         |<a href="https://github.com/cobioders/jarvis2">code</a>  | <a href="https://doi.org/10.1109/DCC55655.2023.00037">article</a> |
-| JARVIS3         |<a href="https://github.com/cobioders/jarvis3">code</a>  | - |
+| JARVIS3         |<a href="https://github.com/cobilab/jarvis3">code</a>  | - |
 | Zstandard       |<a href="https://github.com/facebook/zstd">code</a>  | <a href="https://facebook.github.io/zstd/">base</a> |
 
 </div>
