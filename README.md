@@ -15,7 +15,7 @@ The 3,117,292,120 human DNA symbols have been compressed (lossless) to
 
 | Rank     |Bytes       |Bps    |Time (m)|RAM (GB)| Program | Replication | Factor (*) |
 |----------|------------|-------|--------|--------|---------|-----------|--------|
-| 1        |538,155,679 | 1.381 | *    | *   | JARVIS3 | * |![31%](https://progress-bar.dev/31) |
+| 1        |538,155,679 | 1.381 | ?    | ?   | JARVIS3 |? |![31%](https://progress-bar.dev/31) |
 | 2        |543,855,534 | 1.395 | 381    | 28.8   | JARVIS2 | ![Run52](https://github.com/pratas/HumanGenome/blob/main/scripts/Run52.sh) |![30%](https://progress-bar.dev/30) |
 | 3        |544,059,173 | 1.396 | 389    | 28.8   | JARVIS2 | ![Run51](https://github.com/pratas/HumanGenome/blob/main/scripts/Run51.sh) |![30%](https://progress-bar.dev/30) |
 | 4        |544,267,353 | 1.396 | 420    | 27.4   | JARVIS2 | ![Run50](https://github.com/pratas/HumanGenome/blob/main/scripts/Run50.sh) |![30%](https://progress-bar.dev/30) |
